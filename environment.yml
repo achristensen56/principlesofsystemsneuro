@@ -1,0 +1,12 @@
+name: gstools
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - gstools
+  - notebook
+  - matplotlib
+  - pyvista
+  - ipyvtklink
+  - seaborn
+prefix: /opt/anaconda3/envs/gstools
