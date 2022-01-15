@@ -9,4 +9,5 @@ dependencies:
   - pyvista
   - ipyvtklink
   - seaborn
+  - yml
 prefix: /opt/anaconda3/envs/gstools
