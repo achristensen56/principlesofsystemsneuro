@@ -9,3 +9,6 @@ Activate the environment by typing conda activate gstools (or whatever you named
 Launch the jupyter notebook by typing jupyter notebook. 
 
 from the website that pops up, select the Homework 1.ipynb file, and open it to view the first homework. You can modify this file in place on your computer, then upload just the .ipynb file to canvas to submit your homework. 
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/achristensen56/principlesofsystemsneuro/HEAD)
